@@ -23,8 +23,6 @@
 
   操作系统作为接口的示意图
 
-![image-20210702122951506](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20210702122951506.png)
-
    没有安装系统的计算机，通常被称为*裸机*
 
 - 如果想在*裸机*上运行自己所编写的程序，就必须用机械语言书写程序
